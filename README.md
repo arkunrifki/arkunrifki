@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arkunrifki
 - 👀 I’m interested in Helping another people with my skills
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and Mobile Development
 - 💞️ I’m looking to collaborate on my prject website
 - 📫 How to reach me you can search my name in linkedin
 
