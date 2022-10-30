@@ -6,10 +6,10 @@
 - ⚡ Fun fact: I love Design, BasketBall, and coding
 - 📫 How to reach me you can search my name in linkedin
 - Connect with me:
-    arkun.rifki@gmail.com
-    https://twitter.com/ArkunRifki
-    https://www.instagram.com/arkunrfki/
-    https://www.linkedin.com/in/arkun-rifki-40ba29183/
+   - arkun.rifki@gmail.com
+   - https://twitter.com/ArkunRifki
+   - https://www.instagram.com/arkunrfki/
+   - https://www.linkedin.com/in/arkun-rifki-40ba29183/
 
 <!---
 arkunrifki/arkunrifki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
