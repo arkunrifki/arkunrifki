@@ -10,6 +10,8 @@
    - https://twitter.com/ArkunRifki
    - https://www.instagram.com/arkunrfki/
    - https://www.linkedin.com/in/arkun-rifki-40ba29183/
+ 
+![Codewars](https://github.r2v.ch/codewars?user=NasaToTheMoon&stroke=%23BB432C)
 
 <!---
 arkunrifki/arkunrifki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
