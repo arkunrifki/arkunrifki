@@ -1,19 +1,44 @@
-- 👋 Hi, I’m @Arkunifki
-- 👀 I’m interested in Helping another people with my skills
-- 👯 I’m looking to collaborate with other content creators
-- 🌱 I’m currently learning Web Development and Mobile Development
-- 💞️ I’m looking to collaborate on my prject website
-- ⚡ Fun fact: I love Design, BasketBall, and coding
-- 📫 How to reach me you can search my name in linkedin
-- Connect with me:
-   - arkun.rifki@gmail.com
-   - https://twitter.com/ArkunRifki
-   - https://www.instagram.com/arkunrfki/
-   - https://www.linkedin.com/in/arkun-rifki-40ba29183/
- 
+<h1 align="center">Hi 👋, I'm Arkun Rifki</h1>
+
+<p align="center">
+  🚀 Web & Mobile Developer | 🎨 Design Enthusiast
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 💡 Passionate about building useful digital products  
+- 🤝 Open for collaboration with developers & creators  
+- 🌱 Currently learning **Web Development** & **Mobile Development**  
+- 🎯 Interested in impactful projects (education, tools, community)  
+
+---
+
+### 🛠️ Tech Interests
+- Web Development  
+- Mobile Development  
+- UI/UX Design  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **arkun.rifki@gmail.com**  
+- 🐦 Twitter: https://twitter.com/ArkunRifki  
+- 📸 Instagram: https://www.instagram.com/arkunrfki/  
+- 💼 LinkedIn: https://www.linkedin.com/in/arkun-rifki-40ba29183/  
+
+---
+
+### ⚡ Fun Fact
+I enjoy **design, basketball, and coding** — a mix of creativity and logic 🎯  
+
+---
+
+### 🏆 Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=NasaToTheMoon&stroke=%23BB432C)
 
-<!---
-arkunrifki/arkunrifki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  ✨ "Keep building, keep learning." ✨
+</p>
